@@ -1,0 +1,63 @@
+<!--q.12 write by Shoeb -->
+<html>
+<head>
+	<title>Team</title>
+	<style>
+	table{
+		border:2px solid;
+		font-size:15;
+		widtd:70%;
+		border-spacing:3px;
+		align:center;
+		
+	}
+	th{
+		text-align:left;
+		color:black;
+		background-color:white;
+		border:2px solid ;
+		padding:15px;
+	}
+	td{
+		text-align:left;
+		color:white;
+		border:1px solid ;
+		padding:10px;
+	}
+	
+		}
+	</style>
+</head>
+<body>
+	<div style="background-image:url('greyleaf.jpg');">
+	<table style="margin-left:auto;margin-right:auto;">
+			<tr>
+			<th width="50%"><b>Roll No</b></th>
+			<th width="30%"><b>Name</b></th>
+			<th width="50%"><b>Team</b></th>
+		</tr>
+		<tr>
+			<th>1001</th>
+			<th>John</th>
+			<th>Red</th>
+		</tr>
+		<tr>
+			<th>1002</th>
+			<th>Peter</th>
+			<th>Blue</th>
+		</tr>
+		<tr>
+			<th>1003</th>
+			<th>Henry</th>
+			<th>Green</th>
+		</tr>		
+		<tr>
+			<th>1004</th>
+			<th>Ford</th>
+			<th>Yellow</th>
+		</tr>	
+	</table>
+	</div>
+	</body>
+</html>	
+	
